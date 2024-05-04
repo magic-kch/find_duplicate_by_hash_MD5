@@ -1,0 +1,1 @@
+# Find all duplicate, searching by hash MD5
